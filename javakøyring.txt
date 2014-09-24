@@ -1,0 +1,1 @@
+Skriv inn: java -jar *navn på fil*.jar
